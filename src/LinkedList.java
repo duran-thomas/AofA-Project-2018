@@ -51,7 +51,6 @@ public class LinkedList {
 		}
 	}
 	
-
 	public Module remove() {
 		Module c = null;
 		if(isEmpty()) {
